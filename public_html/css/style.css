@@ -1,0 +1,60 @@
+.aa {
+    color: greenyellow;
+    font-size: 30px;
+    text-decoration: none;
+    margin-left: 200px;
+    margin-right: 125px;
+}
+.you {
+    color: darkturquoise; 
+    font-size: 30px; 
+    text-decoration: none; 
+    margin-right: 125px
+}
+.ii {
+    color: red; 
+    font-size: 30px; 
+    text-decoration: none; 
+}
+.ttt {
+    margin-left: 400px;
+}
+.buy {
+    font-size: 36px; 
+    margin-left: 575px
+}
+body {
+    background-image: url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBwcHCAgHBwcHBwoHBwcHBw8ICQcKIBEWIiARHx8YHCggGBolGxMfITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQwMDgwMFCsZHxwrLCsrKzcrKysrKysrLCwrKysrKzcrKysrKysrKysrKyssKysrKysrKysrKysrKysrK//AABEIALEBHAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAAAQQHA//EABYQAQEBAAAAAAAAAAAAAAAAAAARAf/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOGgAAAAAAAAAAAAoIKACioigAKAgqqiCgAoCKCoAoIKoiCijwAZtAAAAAUBFFBBRUAUEFBEWKKIKoIKCACgKAiqCIKqiCgiKAAoozCjJqiqCIKKAKCCqIgooiqAgoIAqiCggKKIooIKCAKCCigKCIooIKKjMKMmyKoqIKACgiKCgKAiiiIKKAoCKAgKKIKoiCgAooigIAoIKqiEUEZhRk1AVRBQEVQRBVUQUEAUEFFEVQRBVBBRUAABQEUVUQiqCCgIoqogoDMKM2qKoCCggCqIKoiCkBFUURQEAUEFFEVQRFFBBQAFVEFABRUSKoCCgMwozaoooiCqCCiiKAgKAgsVUQUAgoCKCoCgIooiEUUIKAigIAqiCqCCgjMKM2oAAKKIqgiCqCCigCiIKAirARCKqiCgAAgKKIqgiCqCCiiKAgKKMwoyaoqgIKKgKAgqggoqJFUBBQQBVEFUEFBEVRRBQAFEQUUBQRFFBBRRmFGTVFIoiCqogoCKAgKKIooIKCAooigIAoIKqiCggKAigoCgiCrAQUVGYUZNQFBBRRFUERRVEFAABAUURVBEFUEFARQVAUBFUBBVVEIoAAAADMAzaqACgCKAoACCgAYoqAAAALgCgAIoCgoCCgAAAAAAAAD/2Q==') ;
+    color: white;
+    font-size: 20px;
+}
+.qq {
+    margin-left: 400px;
+}
+.how {
+    margin-left: 450px;
+}
+.hou {
+    margin-left: 460px;
+}
+.pp {
+    color: orange;
+    font-size: 30px;
+    text-decoration: none;
+    margin-left: 200px;
+    margin-right: 125px;
+    
+}
+.ti {
+    color: greenyellow;
+    font-size: 30px;
+    margin-right: 125px;
+    text-decoration: none;
+}
+.nn {
+    color: orange;
+    font-size: 30px;
+    text-decoration: none;
+    margin-left: 250px;
+    margin-right: 125px;
+}
