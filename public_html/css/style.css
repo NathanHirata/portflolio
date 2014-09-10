@@ -21,7 +21,8 @@
 }
 .buy {
     font-size: 36px; 
-    margin-left: 575px
+    margin-left: 575px;
+    color: gray;
 }
 body {
     background-image: url('http://images6.alphacoders.com/413/413081.jpg') ;
@@ -59,7 +60,60 @@ body {
     margin-right: 125px;
 }
 .aaa {
-    color: lightblue;
-    text-decoration: none;
-    font-size: 22px;
+    color: dodgerblue;
+    font-size: 25px;
+    margin-right: 50px;
+    margin-left: 505px;
+}
+.qqq{
+    color: red;
+    font-size: 25px;
+}
+.gray {
+    color: gray;
+    margin-left: 625px;
+}
+.px {
+    margin-left: 400px;
+}
+.pc {
+    margin-left: 525px;
+}
+.pz {
+    margin-left: 500px;
+    margin-top: 20px;
+}
+.graytwo {
+    color: gray;
+    margin-left: 575px;
+}
+.five {
+    margin-left: 525px;
+    color: black; 
+}
+.one {
+    margin-bottom: 30px;
+    margin-left: 550px;
+    color: black;
+}
+.two {
+    margin-left: 500px;
+}
+.three {
+    margin-left: 530px;
+}
+.four {
+    margin-left: 545px;
+}
+.six {
+    margin-left: 535px;
+}
+.seven {
+    margin-left: 537.5px;
+}
+.nine {
+    margin-left: 575px;
+}
+.for {
+    margin-left: 450px;
 }
